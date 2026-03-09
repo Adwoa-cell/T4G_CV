@@ -1,1 +1,19 @@
 .navigation{display: flex; gap: 50px;}
+.image{width: 220px;
+border-radius: 48%;
+height: 220px;}
+.logoandtext{display: flex;}
+h1{background-color: aquamarine;
+width: 2000px;}
+.hey{color:blue;
+}
+.project{color: blue;}
+.software{color: blue;}
+.works{display: flex;
+}
+.pic{width: 300px;}
+.pick{width: 300px;}
+.footer{margin: 30px;}
+.button{background-color: blue;}
+.screenshot{background-color: yellow;
+width: 1000px;}

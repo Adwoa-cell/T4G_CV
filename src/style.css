@@ -14,6 +14,23 @@ width: 2000px;}
 .pic{width: 300px;}
 .pick{width: 300px;}
 .footer{margin: 30px;}
-.button{background-color: blue;}
-.screenshot{background-color: yellow;
-width: 1000px;}
+.button{background-color: blue;
+color: white;
+padding: 8px 12px;
+border-radius: 5px;
+cursor: pointer;}
+.screenshot{background-color: rgb(179, 179, 171);width: 200px;}
+.cvcontainer{
+    background-color: aliceblue; 
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+
+}
+.reference{
+background-color: gray;
+width: 200px;
+padding: 15px;
+border-radius: 8px;
+
+}
